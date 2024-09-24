@@ -438,7 +438,12 @@ button:hover {
     }
 
     .order {
-        width: 600px;
+        width: 640px;
+    }
+
+    .close {
+        top: 0;
+        right: 20px;
     }
 
     .th1 {
@@ -506,6 +511,15 @@ button:hover {
     
     .menu-btn.active .close-icon {
         display: inline; 
+    }
+
+    .order {
+padding-top: 0;
+    }
+
+    .close {
+        top: 0;
+        right: 20px;
     }
 
     .close-icon {
