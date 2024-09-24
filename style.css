@@ -437,6 +437,10 @@ button:hover {
         height: 350px;
     }
 
+    .order {
+        width: 600px;
+    }
+
     .th1 {
         flex-direction: column;
         width: 600px;
@@ -521,6 +525,10 @@ button:hover {
 
     .zag {
         display: none;
+    }
+
+    .order {
+        width: 300px;
     }
 
     .o1 img {
